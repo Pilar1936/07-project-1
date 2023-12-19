@@ -34,3 +34,5 @@ This api will give us
     and the name of the area it was most recently spotted at.
 Every bird box is also a clickable link to a google image search of the bird. 
 lastly the website is set up to save past searches to ensure ease of access of the site. Data is stored in local storage and when an entry is first made the name of the park is stored and a button is created to go back to the previously looked at site. If you wish to clear you search history and pressing the clear history button will clear your local storage and any buttons made
+
+![Gif of landing page, search. Park data and bird sightings displayed.](assets/images/ezgif.com-video-to-gif-converted.gif)
